@@ -1,6 +1,6 @@
 # employee-dataset
 
-Please see attached for the dataset.csv file downloaded from kaggle and the .sql file code below:
+Please see attached for the employee.csv dataset downloaded from kaggle and the .sql file code below:
 
 -- Create table for employee dataset.csv to upload data from kaggle to pgadmin. 
 
